@@ -1,0 +1,127 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.main-container {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    background-repeat: no-repeat;
+    padding-top: 120px;
+    margin: 0;
+}
+
+#appeal {
+    color: white;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.link-button {
+    font-weight: bold;
+    text-decoration: none;
+    background-color: rgb(83, 188, 13);
+    border: 10px solid rgb(83, 188, 13);
+    margin: 5px;
+    border-radius: 5px;
+    padding: 0;
+}
+
+.donate-update {
+    text-align: center;
+    padding: 20px;
+}
+
+.please-donate {
+    font-size: 2em;
+    color: red;
+    font-weight: bolder;
+    margin-top: 30px;
+
+}
+
+.flexible-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    margin: 20px;
+    gap: 20px;
+}
+
+.donation-money {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 10px;
+}
+
+#spcefic-amount {
+    background-color: rgb(236, 205, 235);
+    border: 5px solid rgb(236, 205, 235);
+
+}
+
+.blur {
+    color: rgb(231, 228, 228);
+    font-size: 1.5em;
+}
+
+#other-amount-margin {
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.donation-plan {
+    margin: 50px;
+    text-align: justify;
+}
+
+#center-head {
+    text-align: center;
+}
+
+.means-support {
+    width: 300px;
+    border: 1px solid green;
+    padding: 50px;
+    margin: 10px;
+}
+
+#food {
+    background-color: rgb(208, 255, 138);
+}
+
+#shelter {
+    background-color: rgb(248, 199, 110);
+}
+
+#education {
+    background-color: rgb(245, 171, 245);
+}
+
+#reduced-size {
+    width: 450px;
+    height: 360px;
+}
+
+.input-address {
+
+    background-color: greenyellow;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin-top: 120px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
